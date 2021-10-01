@@ -29,7 +29,7 @@ const app = {
             name: 'BBIBBI',
             singer: 'IU',
             music: './assets/music/BBIBBI - IU.wav',
-            img: './assets/img/BBIBBIIU.jpg',
+            img: './assets/img/1.png',
         },
         {
             name: 'Blueming',
